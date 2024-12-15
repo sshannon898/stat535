@@ -10,7 +10,7 @@ library(data.table)
   
   #### load data ----
   
-local_path <- "C:/Users/sshan/Desktop/umass amherst/STA535/final_project/data/"  
+local_path <- "C:/Users/sshan/Desktop/umass amherst/STA535/final_project/stat535/data/"  
 
 jobs1 <- read.csv(paste0(local_path, "datajobs/postings.csv"))
 
